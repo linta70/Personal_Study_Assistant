@@ -1,0 +1,20 @@
+[
+    {
+        "topic": "machine learning",
+        "start_date": "2025-06-24",
+        "end_date": "2025-06-25",
+        "summary": "What is machine learning? - https://www.wikipedia.org/wiki/machine_learning | YouTube intro to machine learning - https://www.youtube.com/results?search_query=introduction+to+machine+learning | Benefits and Risks of machine learning - https://medium.com/tag/machine-learning | Research papers on machine learning - https://scholar.google.com/scholar?q=machine+learning"
+    },
+    {
+        "topic": "agentic ai",
+        "start_date": "2025-06-26",
+        "end_date": "2025-06-27",
+        "summary": "What is agentic ai? - https://www.wikipedia.org/wiki/agentic_ai | YouTube intro to agentic ai - https://www.youtube.com/results?search_query=introduction+to+agentic+ai | Benefits and Risks of agentic ai - https://medium.com/tag/agentic-ai | Research papers on agentic ai - https://scholar.google.com/scholar?q=agentic+ai"
+    },
+    {
+        "topic": "python",
+        "start_date": "2025-06-28",
+        "end_date": "2025-06-29",
+        "summary": "What is python? - https://www.wikipedia.org/wiki/python | YouTube intro to python - https://www.youtube.com/results?search_query=introduction+to+python | Benefits and Risks of python - https://medium.com/tag/python | Research papers on python - https://scholar.google.com/scholar?q=python"
+    }
+]
